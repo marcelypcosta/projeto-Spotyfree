@@ -1,2 +1,2 @@
-# Projeto-Spotyfree
-Projeto com PHP, HTML e CSS
+# Projeto Final
+Spotyfree - Feito com PHP, HTML e CSS
