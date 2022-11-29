@@ -18,8 +18,8 @@
 <h3 id="funcionalidades">Funcionalidades</h3>
 <hr>
 
-- `Funcionalidade básica`: Realizar cadastro dos usuários.
-- `Funcionalidade extra 1`: Escutar a música.
+- `Funcionalidade básica`: Realizar login dos usuários.
+- `Funcionalidade extra 1`: Realizar cadastro do usuário.
 - `Funcionalidade extra 2`: Criar uma playlist.
 
 <h3 id="aplicacao">Aplicação</h3>
