@@ -1,2 +1,1 @@
-# Projeto Final
-Spotyfree - Feito com PHP, HTML e CSS
+<img src="capa.png" alt="Nome do projeto">
