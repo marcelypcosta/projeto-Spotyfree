@@ -1,0 +1,276 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.cabecalho{
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 32px;
+    grid-template-columns: 1fr auto;
+    padding: 8px 32px;
+    height: 60px;
+    box-sizing: border-box;
+    grid-column: 2;
+    box-shadow: 0px 4px 4px rgba(17, 17, 17);
+}
+
+.search_cabecalho{
+    height: 40px;
+    width: 500px;
+    background-color: #000;
+    border: none;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.perfil_cabecalho{
+    display: grid;
+    column-gap: 8px;
+    align-items: center;
+    justify-self: flex-end;
+    color: #95999C;
+    padding: 8px 32px;
+}
+
+.perfil_cabecalho::before{
+    content: "";
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(imagens/perfil.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.menu-lateral{
+    background-color: rgb(17, 17, 17);
+    display: flex;
+    flex-direction: column;
+    grid-column: 1;
+    grid-row: 1 / span 2;
+    width: 200px;
+    height: 100vh;
+}
+
+.logo_pagina{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.opcoes_menu{
+    padding-top: 20px;
+}
+
+.menu-lateral_link{
+    height: 64px;
+    color: #95999C;
+    padding-left: 64px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.menu-lateral_link::before{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 24px;
+}
+
+.menu-lateral_link:hover{
+    color: #ffffff;
+    padding-left: 56px;
+    border-left: 8px solid #ffffff;
+}
+
+.menu-lateral_musica::before{
+    content: url(imagens/icon-musicas.png);
+}
+
+.menu-lateral_radios::before{
+    content: url(imagens/icon-radio.png);
+}
+
+.menu-lateral_explorar::before{
+    content: url(imagens/icon-explorar.png);
+}
+
+.menu-lateral_favoritos::before{
+    content: url(imagens/icon-favoritos.png);
+}
+
+.menu-lateral_link--ativo{
+    color: #ffffff;
+    padding-left: 56px;
+    border-left: 8px solid #ffffff;
+}
+
+.logout{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+}
+
+.logout::before{
+    content: url(imagens/sair.png);
+    padding-right: 4px;
+}
+
+.playlist_favoritos-1{
+    height: 200px;
+    margin: 40px;
+    margin-bottom: 0;
+}
+
+.img_playlist{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.playlist, .nome_playlist, .dados_playlist{
+    display: inline-block;
+}
+
+.dados_playlist li{
+    display: inline;
+}
+
+.dados{
+    height: 200px;
+    display: inline-flex;
+    flex-direction: column;
+    vertical-align: bottom;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.playlist{
+    margin-top: 88px;
+    font-weight: bold;
+    color: #95999C;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.nome_playlist{
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dados_playlist{
+    display: grid;
+    grid-template-columns:repeat(4, auto);
+    justify-content: space-around;
+    gap: 8px;
+    margin-top: 50px;
+    color: #95999C;
+}
+
+.perfil{
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.caixa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 40px;
+    margin-top: 20px;
+}
+
+.play{
+    display: flex;
+    align-items: center;
+    background-color: #1ed760;
+    color: #000;
+    border-radius: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 8px 16px;
+}
+
+.play::before{
+    content: url(imagens/play.png);
+    padding-right: 8px;
+}
+
+.play:hover{
+    cursor: pointer;
+}
+
+.search_playlist{
+    background-color: #000;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.lista_titulos{
+    display: grid;
+    grid-template-columns: auto auto repeat(4, 1fr);
+    gap: 15px;
+    padding: 8px 40px;
+    margin-top: 10px;
+    text-align: center;
+    color: #95999C;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.vazio{
+    width: 34px;
+    height: 12px;
+}
+
+hr{
+    margin: 8px 40px;
+    border-color: #95999C;
+}
+
+.musicas{
+    display: grid;
+    grid-template-columns: auto auto repeat(4, 1fr);
+    gap: 15px;
+    padding: 8px 40px;
+    text-align: center;
+    height: 50px;
+    align-items: center;
+}
+
+.ranking{
+    width: 20px;
+    text-align: center;
+}
+
+.sobre img{
+    width: 34px;
+    height: 34px;
+}
+
