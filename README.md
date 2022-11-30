@@ -35,7 +35,7 @@
 
 <h3 id="acesso">Acesso ao projeto</h3>
 <hr>
-<p>Você pode<a href="">baixar</a>.nosso projeto</p>
+<p>Você pode<a href=""> baixar</a> nosso projeto no arquivo zip do repositório</p>
 
 <h3 id="desenvolvedores">Desenvolvedores</h3>
 <hr>
