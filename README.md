@@ -35,7 +35,7 @@
 
 <h3 id="acesso">Acesso ao projeto</h3>
 <hr>
-<p>Você pode <a href="#inicio">acessar o código fonte do projeto</a> ou <a href="">baixá-lo</a>.</p>
+<p>Você pode<a href="">baixar</a>.nosso projeto</p>
 
 <h3 id="desenvolvedores">Desenvolvedores</h3>
 <hr>
