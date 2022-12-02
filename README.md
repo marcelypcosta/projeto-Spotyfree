@@ -13,8 +13,7 @@
 <hr>
 <p>Projeto final em desenvolvimento para a disciplina Programação Web do curso de Ciências da Computação. O Spotyfree é um releitura do site de música Spotify para pessoas de toda e qualquer idade que são apaixonadas por música.
   
-  O site permite o usuário acessar as músicas de cantores, bandas, DJ´s, etc, e poder criar a suas próprias playlists. Além disso, a partir do plano selecionado poder ter acesso em modo offline, tendo a melhor experiência da música em qualquer lugar que estiver, poder dividir a conta com até 6 familiares, músicas sem anúncios, entre outras coisas.
-</p>
+  O site permite após o cadastramente e login o usuário acessar as músicas de cantores, bandas, DJ´s, entre outros e poder criar a suas próprias playlists para curtir quando quiser.
 <h3 id="funcionalidades">Funcionalidades</h3>
 <hr>
 
