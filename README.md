@@ -19,7 +19,7 @@
 
 - `Funcionalidade básica`: Realizar login dos usuários.
 - `Funcionalidade extra 1`: Realizar cadastro do usuário.
-- `Funcionalidade extra 2`: Criar uma playlist.
+- `Funcionalidade extra 2`: Escutar música disponivel na página.
 
 <h3 id="aplicacao">Aplicação</h3>
 <hr>
