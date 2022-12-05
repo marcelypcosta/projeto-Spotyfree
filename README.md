@@ -13,13 +13,13 @@
 <hr>
 <p>Projeto final em desenvolvimento para a disciplina Programação Web do curso de Ciências da Computação. O Spotyfree é um releitura do site de música Spotify para pessoas de toda e qualquer idade que são apaixonadas por música.
   
-  O site permite após o cadastramente e login o usuário acessar as músicas de cantores, bandas, DJ´s, entre outros e poder escutar quando quiser.
+  O site permite você realizar o cadastramente e a partir disso, fazer o login para acessar as músicas de disponiveís na página e poder escutar quando quiser.
 <h3 id="funcionalidades">Funcionalidades</h3>
 <hr>
 
 - `Funcionalidade básica`: Realizar login dos usuários.
 - `Funcionalidade extra 1`: Realizar cadastro do usuário.
-- `Funcionalidade extra 2`: Escutar música disponivel na página.
+- `Funcionalidade extra 2`: Escutar música.
 
 <h3 id="aplicacao">Aplicação</h3>
 <hr>
@@ -30,6 +30,7 @@
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 <h3 id="acesso">Acesso ao projeto</h3>
