@@ -19,9 +19,7 @@
 
 - `Funcionalidade básica`: Realizar login dos usuários.
 - `Funcionalidade extra 1`: Escutar música.
-
-<h3 id="aplicacao">Aplicação</h3>
-<hr>
+- `Funcionalidade extra 2`: Script de erro.
 
 <h3 id="linguagens">Linguagens utilizadas</h3>
 <hr>
