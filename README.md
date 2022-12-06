@@ -11,15 +11,14 @@
 </ul>
 <h3 id="descricao">Descrição do Projeto</h3>
 <hr>
-<p>Projeto final em desenvolvimento para a disciplina Programação Web do curso de Ciências da Computação. O Spotyfree é um releitura do site de música Spotify para pessoas de toda e qualquer idade que são apaixonadas por música.
+<p>Projeto final em desenvolvimento para a disciplina Programação Web do curso de Ciências da Computação. O Spotyfree é um clone do site de música Spotify para pessoas de toda e qualquer idade que são apaixonadas por música.
   
-  O site permite você realizar o cadastramente e a partir disso, fazer o login para acessar as músicas de disponiveís na página e poder escutar quando quiser.
+  O site permite você realizar o login para acessar as músicas de disponiveís na página e poder escutar quando quiser.
 <h3 id="funcionalidades">Funcionalidades</h3>
 <hr>
 
 - `Funcionalidade básica`: Realizar login dos usuários.
-- `Funcionalidade extra 1`: Realizar cadastro do usuário.
-- `Funcionalidade extra 2`: Escutar música.
+- `Funcionalidade extra 1`: Escutar música.
 
 <h3 id="aplicacao">Aplicação</h3>
 <hr>
