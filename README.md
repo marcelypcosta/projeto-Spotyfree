@@ -4,7 +4,6 @@
 <ul>
     <li><a href="#descricao">Descrição do projeto</a></li>
     <li><a href="#funcionalidades">Funcionalidades</a></li>
-    <li><a href="#aplicacao">Aplicação</a></li>
     <li><a href="#linguagens">Linguagens utilizadas</a></li>
     <li><a href="#acesso">Acesso ao projeto</a></li>
     <li><a href="#desenvolvedores">Desenvolvedores</a></li>
