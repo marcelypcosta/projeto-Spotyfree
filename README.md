@@ -31,7 +31,7 @@
 
 <h3 id="acesso">Acesso ao projeto</h3>
 <hr>
-<p>Você pode<a href="https://github.com/marcelypcosta/Projeto-Spotyfree/raw/main/Projeto%20Final.zip"> baixar</a> nosso projeto no arquivo zip do repositório</p>
+<p>Você pode<a href="#"> baixar</a> nosso projeto no arquivo zip do repositório</p>
 
 <h3 id="desenvolvedores">Desenvolvedores</h3>
 <hr>
