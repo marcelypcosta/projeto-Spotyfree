@@ -39,7 +39,7 @@
 				header("Location: pg-entrada.php");
 				
 			} else{
-				echo "<h1>Falha e-mail ou Senha incorretos!!</h1>";
+				echo "<script>alert('Senha ou Email incorretos');</script>";
 			}
 
 		}
