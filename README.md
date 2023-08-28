@@ -13,6 +13,8 @@
 <p>Projeto final em desenvolvimento para a disciplina Programação Web do curso de Ciências da Computação. O Spotyfree é um clone do site de música Spotify para pessoas de toda e qualquer idade que são apaixonadas por música.
   
   O site permite você realizar o login para acessar as músicas de disponiveís na página e poder escutar quando quiser.
+
+  OBS.: Se deseja ver o projeto sem precisar de XAMPP, faça download do arquivo Projeto Spotyfree
 <h3 id="funcionalidades">Funcionalidades</h3>
 <hr>
 
